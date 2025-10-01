@@ -1,9 +1,10 @@
 # Structured_Query_Langauge
-Database Language:
+
+Database Languages:
 
 In the world of data and software development, databases are the backbone of applications. Whether you're developing a small website or a large-scale enterprise application, choosing the right database system is crucial. Developers often encounter confusion around terms like SQL, MySQL, PostgreSQL, MS SQL Server, Oracle, SQLite, and others. These terms are related but represent fundamentally different concepts.
 
-This blog aims to clearly distinguish between SQL as a language and the various database management systems (DBMS) that implement SQL in different ways.
+This readme file aims to clearly distinguish between SQL as a language and the various database management systems (DBMS) that implement SQL in different ways.
 
 # SQL
 SQL (Structured Query Language) is a domain-specific language used for managing and manipulating relational databases. It is not a database itself but a language that is used across multiple database systems to perform tasks such as:
